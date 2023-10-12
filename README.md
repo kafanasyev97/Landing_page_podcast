@@ -1,2 +1,3 @@
-# Lending_page_podcast
-Adaptive site (HTML + CSS)
+# Верстка одностраничного сайта (Landing page)
+
+Проект адаптивного сайта. Основной упор был сделан на верстку, поэтому JavaScript кода в проекте минимум.
